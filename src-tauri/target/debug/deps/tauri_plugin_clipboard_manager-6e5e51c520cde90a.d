@@ -1,0 +1,8 @@
+C:\Users\condor\Desktop\Clip_Ollama\ClipMind\src-tauri\target\debug\deps\tauri_plugin_clipboard_manager-6e5e51c520cde90a.d: C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-plugin-clipboard-manager-2.3.0\src\lib.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-plugin-clipboard-manager-2.3.0\src\desktop.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-plugin-clipboard-manager-2.3.0\src\commands.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-plugin-clipboard-manager-2.3.0\src\error.rs
+
+C:\Users\condor\Desktop\Clip_Ollama\ClipMind\src-tauri\target\debug\deps\libtauri_plugin_clipboard_manager-6e5e51c520cde90a.rmeta: C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-plugin-clipboard-manager-2.3.0\src\lib.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-plugin-clipboard-manager-2.3.0\src\desktop.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-plugin-clipboard-manager-2.3.0\src\commands.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-plugin-clipboard-manager-2.3.0\src\error.rs
+
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-plugin-clipboard-manager-2.3.0\src\lib.rs:
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-plugin-clipboard-manager-2.3.0\src\desktop.rs:
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-plugin-clipboard-manager-2.3.0\src\commands.rs:
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-plugin-clipboard-manager-2.3.0\src\error.rs:

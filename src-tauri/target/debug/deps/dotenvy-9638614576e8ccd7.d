@@ -1,0 +1,11 @@
+C:\Users\condor\Desktop\Clip_Ollama\ClipMind\src-tauri\target\debug\deps\dotenvy-9638614576e8ccd7.d: C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\lib.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\errors.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\find.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\iter.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\parse.rs
+
+C:\Users\condor\Desktop\Clip_Ollama\ClipMind\src-tauri\target\debug\deps\libdotenvy-9638614576e8ccd7.rlib: C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\lib.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\errors.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\find.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\iter.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\parse.rs
+
+C:\Users\condor\Desktop\Clip_Ollama\ClipMind\src-tauri\target\debug\deps\libdotenvy-9638614576e8ccd7.rmeta: C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\lib.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\errors.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\find.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\iter.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\parse.rs
+
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\lib.rs:
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\errors.rs:
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\find.rs:
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\iter.rs:
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\parse.rs:

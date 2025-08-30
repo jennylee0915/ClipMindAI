@@ -1,0 +1,66 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build / cache
+.dist/
+build/
+.eggs/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# 大型二進位（避免誤收依賴庫）
+*.dll
+*.lib
+
+# Node / 前端
+node_modules/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+
+*.so
+*.cat
+*.bin
+pnpm-lock.yaml
+
+# ignore env
+.env
+src-tauri/.env

@@ -1,0 +1,13 @@
+C:\Users\condor\Desktop\Clip_Ollama\ClipMind\src-tauri\target\debug\deps\toml-d94ca5ddd533d150.d: C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.2\src\lib.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.2\src\map.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.2\src\value.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.2\src\de.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.2\src\ser.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.2\src\macros.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.2\src\edit.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.2\src\fmt.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.2\src\table.rs
+
+C:\Users\condor\Desktop\Clip_Ollama\ClipMind\src-tauri\target\debug\deps\libtoml-d94ca5ddd533d150.rmeta: C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.2\src\lib.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.2\src\map.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.2\src\value.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.2\src\de.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.2\src\ser.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.2\src\macros.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.2\src\edit.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.2\src\fmt.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.2\src\table.rs
+
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.2\src\lib.rs:
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.2\src\map.rs:
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.2\src\value.rs:
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.2\src\de.rs:
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.2\src\ser.rs:
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.2\src\macros.rs:
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.2\src\edit.rs:
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.2\src\fmt.rs:
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml-0.8.2\src\table.rs:

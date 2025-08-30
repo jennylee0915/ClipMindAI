@@ -1,0 +1,11 @@
+C:\Users\condor\Desktop\Clip_Ollama\ClipMind\src-tauri\target\debug\deps\wry-825b6fe9bd2b8c11.d: C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wry-0.52.1\src\lib.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wry-0.52.1\src\error.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wry-0.52.1\src\proxy.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wry-0.52.1\src\web_context.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wry-0.52.1\src\webview2\mod.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wry-0.52.1\src\webview2\drag_drop.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wry-0.52.1\src\webview2\util.rs
+
+C:\Users\condor\Desktop\Clip_Ollama\ClipMind\src-tauri\target\debug\deps\libwry-825b6fe9bd2b8c11.rmeta: C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wry-0.52.1\src\lib.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wry-0.52.1\src\error.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wry-0.52.1\src\proxy.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wry-0.52.1\src\web_context.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wry-0.52.1\src\webview2\mod.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wry-0.52.1\src\webview2\drag_drop.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wry-0.52.1\src\webview2\util.rs
+
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wry-0.52.1\src\lib.rs:
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wry-0.52.1\src\error.rs:
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wry-0.52.1\src\proxy.rs:
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wry-0.52.1\src\web_context.rs:
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wry-0.52.1\src\webview2\mod.rs:
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wry-0.52.1\src\webview2\drag_drop.rs:
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wry-0.52.1\src\webview2\util.rs:

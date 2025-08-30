@@ -1,0 +1,11 @@
+C:\Users\condor\Desktop\Clip_Ollama\ClipMind\src-tauri\target\debug\deps\serde_untagged-706d24c2bdc44456.d: C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-untagged-0.1.7\src\lib.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-untagged-0.1.7\src\any.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-untagged-0.1.7\src\error.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-untagged-0.1.7\src\int.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-untagged-0.1.7\src\map.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-untagged-0.1.7\src\seed.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-untagged-0.1.7\src\seq.rs
+
+C:\Users\condor\Desktop\Clip_Ollama\ClipMind\src-tauri\target\debug\deps\libserde_untagged-706d24c2bdc44456.rmeta: C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-untagged-0.1.7\src\lib.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-untagged-0.1.7\src\any.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-untagged-0.1.7\src\error.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-untagged-0.1.7\src\int.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-untagged-0.1.7\src\map.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-untagged-0.1.7\src\seed.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-untagged-0.1.7\src\seq.rs
+
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-untagged-0.1.7\src\lib.rs:
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-untagged-0.1.7\src\any.rs:
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-untagged-0.1.7\src\error.rs:
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-untagged-0.1.7\src\int.rs:
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-untagged-0.1.7\src\map.rs:
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-untagged-0.1.7\src\seed.rs:
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-untagged-0.1.7\src\seq.rs:

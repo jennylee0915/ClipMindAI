@@ -1,0 +1,12 @@
+C:\Users\condor\Desktop\Clip_Ollama\ClipMind\src-tauri\target\debug\deps\crc-a20572348c6364dc.d: C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.3.0\src\lib.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.3.0\src\crc128.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.3.0\src\crc16.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.3.0\src\crc32.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.3.0\src\crc64.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.3.0\src\crc8.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.3.0\src\table.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.3.0\src\util.rs
+
+C:\Users\condor\Desktop\Clip_Ollama\ClipMind\src-tauri\target\debug\deps\libcrc-a20572348c6364dc.rmeta: C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.3.0\src\lib.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.3.0\src\crc128.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.3.0\src\crc16.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.3.0\src\crc32.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.3.0\src\crc64.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.3.0\src\crc8.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.3.0\src\table.rs C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.3.0\src\util.rs
+
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.3.0\src\lib.rs:
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.3.0\src\crc128.rs:
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.3.0\src\crc16.rs:
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.3.0\src\crc32.rs:
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.3.0\src\crc64.rs:
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.3.0\src\crc8.rs:
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.3.0\src\table.rs:
+C:\Users\condor\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc-3.3.0\src\util.rs:

@@ -1,0 +1,9 @@
+ai:
+  kuwa_url: "http://127.0.0.1/v1.0"
+  timeout_ms: 30000
+  api_key: "9daa91482b52f83b9523cf76177db135c9f471c123aa95ca8fbd47619511292d"
+  models:
+    default: ".bot/Llama 3.2 3B @NPU"
+    ai_translate: ".bot/Llama 3.1 8B @NPU"
+    ai_summarize: ".bot/Llama 3.1 8B @NPU"
+    ai_explain_code: ".bot/Llama 3.1 8B @NPU"
