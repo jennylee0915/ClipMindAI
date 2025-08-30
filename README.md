@@ -183,3 +183,11 @@ On Windows, you can search the taskbar for "Edit the system environment variable
 
 ### 🛠️ Kuwa GenAI OS Installation
 - Please follow [Kuwa installation guide](https://github.com/kuwaai/kuwa-aios/tree/main?tab=readme-ov-file#installation-guide) to install Kuwa.
+
+## author
+
+| 姓名  | Email                                                   |
+| --- | ------------------------------------------------------- |
+| 李家蓁 | [cclee0806915@gamil.com](mailto:cclee0806915@gamil.com) |
+| 陳繹帆 | [afan890918@gmail.com](mailto:afan890918@gmail.com)     |
+|鄧奕辰|[m88215@gmail.com](mailto:m88215@gmail.com)|
