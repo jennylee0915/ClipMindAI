@@ -75,8 +75,30 @@ set AR=
 set CC=clang-cl
 set CXX=clang-cl
 set AR=llvm-ar
-
 ```
+
+### AI Model Configuration
+
+You can configure the AI models in `config.yaml`. As long as the model is available on **Kuwa**, you can use it directly. You can also connect to other internal devices to deploy your own AI solution.
+
+```yaml
+ai:
+  kuwa_url: "http://127.0.0.1/v1.0"
+  timeout_ms: 30000
+  api_key: "<your_api_key>"
+  models:
+    default: ".bot/Llama 3.2 3B @NPU"
+    translate: ".bot/Llama 3.1 8B @NPU"
+    summarize: ".bot/Llama 3.1 8B @NPU"
+    explain_code: ".bot/Llama 3.1 8B @NPU"
+    optimize_code: ".bot/Llama 3.1 8B @NPU"
+```
+
+This section allows you to:
+
+* Set the **default model** for general tasks.
+* Assign **different models** for specific functions such as translation, summarization, or code-related tasks.
+* Adjust the endpoint, timeout, and API key according to your environment.
 
 ## 🛠️ Kuwa Server Setup
 
